@@ -61,6 +61,26 @@ Was nehme ich mit? Was mache ich nächstes Mal anders?
 
 ### TT.MM.JJJJ – _Thema_
 
+**Vorbehalte**
+Ich bin unsicher, ob die Struktur und der Aufbau unseres Projekts passen ist, so wie es im Auftrag beschrieben ist.
+
+**Gefühle gegenüber DevOps**
+Bisher ist alles noch ganz in Ordnung. Das Team harmoniert bisher ganz gut, jeder hat seine Aufgabe übernommen und hat Hilfe angeboten falls diese bestand. GitHub ist nicht meine erste Wahl, aber der Rest der Teams kennt sich damit gut aus und ich komme damit zurecht. Ich hatte bisschen Schwierigkeiten beim Erstellen des Kanban-Boards in GitHub, habe aber die nötige Hilfe bekommen.
+
+**Vergleich mit meinem Unternehmen**
+In unserem Team arbeiten wir mit Azure DevOps. Der Aufbau ist aber ziemlich ähnlich. In meinem Unternehmen wird weniger mit Branches gearbeitet, ich kenne es aber aus anderen Teams in denen ich für kurze Zeit in einer Stage gearbeitet habe.
+
+**Verbesserungspotenzial im Unternehmen**
+Was könnte man in meinem Unternehmen bezüglich dieses Themas verbessern?
+
+**Teamentscheid & Alternativen**
+Das Team hat sich für Springboot entschieden. Ich arbeite nicht damit, habe aber bereits in der Schule Berührungspunkte damit gehabt, weswegen ich damit einverstanden habe. Ich arbeite im Unternehmen mit Delphi und React, aber da vor Allem Delphi keiner der anderen Teammitgliedern kennt, ist es natürlich klar, dass wir diese Programmiersprache nicht verwenden. Als Alternative hätte ich noch Python gesehen, aber auch da haben andere Teammitgliedern keine Erfahrung mit.
+
+**KI-Nutzung** _(nur falls KI genutzt wurde)_
+Ich habe KI für die Vorlage vom Lernjournal und Time-Logging verwendet. Ich habe Claude Code Opus 5.5 verwendet. Er hat mir deutlich zu viel Text und Einträge erstellt als nötig. Es wurden nicht notwendige Erklärungen für das Lernjournal und das Time Logging erstellt. Diese haben erklärt wofür dieses Dokument gebraucht wird, was in unserem Zusammenhang nicht gebraucht wird. Das ergibt natürlich sind, da er den genauen Auftrag nicht kennt und dadurch Annahmen macht.  
+
+**Erkenntnis / Nächster Schritt**
+Ich habe heute das erste Mal GitHub-Projects kennengelernt. Das hat mich ziemlich fasziniert und werde ich definitiv auch in privaten Projekten wiederverwenden. Der nächste Schritt wird die Aufgabe T1 sein, welche wir nächste Woche angehen. Ich bin gespannt wie sich das entwickelt und das Team harmonieren wird, wenn dann wirklich programmiert wird.
 
 
 ## Woche 2
