@@ -59,7 +59,7 @@ Was nehme ich mit? Was mache ich nächstes Mal anders?
 
 ## Woche 1
 
-### TT.MM.JJJJ – _Thema_
+### 13.11.2026 – Umgebung definieren
 
 **Vorbehalte**
 Ich bin unsicher, ob die Struktur und der Aufbau unseres Projekts passen ist, so wie es im Auftrag beschrieben ist.
@@ -76,7 +76,7 @@ Was könnte man in meinem Unternehmen bezüglich dieses Themas verbessern?
 **Teamentscheid & Alternativen**
 Das Team hat sich für Springboot entschieden. Ich arbeite nicht damit, habe aber bereits in der Schule Berührungspunkte damit gehabt, weswegen ich damit einverstanden habe. Ich arbeite im Unternehmen mit Delphi und React, aber da vor Allem Delphi keiner der anderen Teammitgliedern kennt, ist es natürlich klar, dass wir diese Programmiersprache nicht verwenden. Als Alternative hätte ich noch Python gesehen, aber auch da haben andere Teammitgliedern keine Erfahrung mit.
 
-**KI-Nutzung** _(nur falls KI genutzt wurde)_
+**KI-Nutzung**
 Ich habe KI für die Vorlage vom Lernjournal und Time-Logging verwendet. Ich habe Claude Code Opus 5.5 verwendet. Er hat mir deutlich zu viel Text und Einträge erstellt als nötig. Es wurden nicht notwendige Erklärungen für das Lernjournal und das Time Logging erstellt. Diese haben erklärt wofür dieses Dokument gebraucht wird, was in unserem Zusammenhang nicht gebraucht wird. Das ergibt natürlich sind, da er den genauen Auftrag nicht kennt und dadurch Annahmen macht.  
 
 **Erkenntnis / Nächster Schritt**
